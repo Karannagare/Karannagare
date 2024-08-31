@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karannagare
-- 👀 I’m interested in Web Development & Design.
-- 🌱 I’m currently learning Software Development.
+- 👀 I’m interested in Data Analysis.
+- 🌱 I’m Completed Graduation in B.VOC(Software Development).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Linkedin.
 
